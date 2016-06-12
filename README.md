@@ -1,2 +1,2 @@
 # IOS_UnitConvertor_Final_Delivery
-Project done as part EPITA IOS final Assessment
+Project done as part of EPITA IOS final Assessment
